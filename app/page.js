@@ -1,7 +1,7 @@
 "use client";
 
-import RadarVEFS from "./components/RadarVEFS";
-import TableVEFS from "./components/TableVEFS";
+import RadarVEFS from "../components/RadarVEFS";
+import TableVEFS from "../components/TableVEFS";
 import exampleData from "../data/exampleData";
 import Link from "next/link";
 
